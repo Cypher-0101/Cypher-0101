@@ -20,8 +20,9 @@
 </p>
 
 ## My Experiences 🙌
-- [Web Developer](https://luitomania.in) Web Application Developer of Luitomaina since MARCH,2020.
 - [Cyb-sec Analyst Intern](https://iitgn.ac.in) Cyber Security Analyst (Summer Research Intern) at IIT Gandhinagar.
+- [ML Research Intern](https://iiti.ac.in/page/online-internship-policy-of-iit-indore-for-the-undergraduate-students) at IIT Indore, deep diving in ML Based Side Channel Analysis of Cipher Algorithms and Implementations.
+- [Web Developer](https://luitomania.in) Web Application Developer of Luitomaina since MARCH,2020.
 
 ## Honors & Awards 🏅
 - [State Rank 4th](https://jobnewsassam.in/list-of-rank-holders-in-assam-hslc/) in the Assam HSLC Examination back in 2016 among 381585 students.
