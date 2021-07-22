@@ -21,7 +21,7 @@
 
 ## My Experiences 🙌
 - [Web Developer](https://luitomania.in) Web Application Developer of Luitomaina since MARCH,2020.
-- [Cyb-sec Analyst Intern](https://iitgn.ac.in) Cyber Secuirity Analyst (Summer Research Intern) at IIT Gandhinagar.
+- [Cyb-sec Analyst Intern](https://iitgn.ac.in) Cyber Security Analyst (Summer Research Intern) at IIT Gandhinagar.
 
 ## Honors & Awards 🏅
 - [State Rank 4th](https://jobnewsassam.in/list-of-rank-holders-in-assam-hslc/) Achieved State Rank 4th in the HSLC Examination back in 2016.
