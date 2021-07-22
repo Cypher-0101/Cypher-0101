@@ -24,7 +24,7 @@
 - [Cyb-sec Analyst Intern](https://iitgn.ac.in) Cyber Security Analyst (Summer Research Intern) at IIT Gandhinagar.
 
 ## Honors & Awards 🏅
-- [State Rank 4th](https://jobnewsassam.in/list-of-rank-holders-in-assam-hslc/) Achieved State Rank 4th in the HSLC Examination back in 2016.
+- [State Rank 4th](https://jobnewsassam.in/list-of-rank-holders-in-assam-hslc/) in the Assam HSLC Examination back in 2016 among 381585 students.
 
 [![Kaustov's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cypher-0101&theme=xcode)](https://github.com/Cypher-0101/github-readme-activity-graph)
 
