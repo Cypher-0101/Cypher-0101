@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN & CP**
 
-- 📫 How to reach me **work.kaustov@gmail.com**
+- 📫 How to reach me: Drop a mail on **work.kaustov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
